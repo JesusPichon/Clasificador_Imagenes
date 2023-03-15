@@ -9,4 +9,4 @@ Construir un clasificador de imágenes basado en arboles de decisión. El modelo
 - Glob
 
 ## :snake:Lenguaje
-Python 3.10.6
+- Python 3.10.6
