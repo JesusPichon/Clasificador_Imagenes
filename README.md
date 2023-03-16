@@ -10,3 +10,6 @@ Construir un clasificador de imágenes basado en arboles de decisión. El modelo
 
 ## :snake:Lenguaje
 - Python 3.10.6
+
+## :link:Enlace imagenes 
+- https://drive.google.com/drive/folders/1HejFGwSqLxtn1B8lv2b2zcKfwb-kBlbf?usp=share_link
